@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="226eb383-0da5-4c56-ab18-3bb1462a8fea" name="Changes" comment="" />
+    <list default="true" id="226eb383-0da5-4c56-ab18-3bb1462a8fea" name="Changes" comment="75244564">
+      <change beforePath="$PROJECT_DIR$/Ejemploo1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemploo1.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +26,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Ejemploo1.executor": "Run",
+    "Python.Ejemploo2.executor": "Run",
+    "Python.Ejemploo3.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
@@ -66,7 +74,20 @@
       <option name="presentableId" value="Default" />
       <updated>1725922604558</updated>
     </task>
+    <task id="LOCAL-00001" summary="75244564">
+      <option name="closed" value="true" />
+      <created>1725922866273</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1725922866273</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="75244564" />
+    <option name="LAST_COMMIT_MESSAGE" value="75244564" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
