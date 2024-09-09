@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="226eb383-0da5-4c56-ab18-3bb1462a8fea" name="Changes" comment="Se elimino main.py">
-      <change beforePath="$PROJECT_DIR$/Ejemploo2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemploo2.py" afterDir="false" />
+    <list default="true" id="226eb383-0da5-4c56-ab18-3bb1462a8fea" name="Changes" comment="Refactorización EJEMPLO_02">
+      <change beforePath="$PROJECT_DIR$/Ejemploo3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemploo3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,13 +98,30 @@
       <option name="project" value="LOCAL" />
       <updated>1725924018308</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Refactorización EJEMPLO_02">
+      <option name="closed" value="true" />
+      <created>1725924250156</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1725924250156</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Refactorización EJEMPLO_02">
+      <option name="closed" value="true" />
+      <created>1725924255292</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1725924255292</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="75244564" />
     <MESSAGE value="Refactorización EJEMPLO01" />
     <MESSAGE value="Se elimino main.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Se elimino main.py" />
+    <MESSAGE value="Refactorización EJEMPLO_02" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactorización EJEMPLO_02" />
   </component>
 </project>
