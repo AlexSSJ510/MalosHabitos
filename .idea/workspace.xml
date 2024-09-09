@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="226eb383-0da5-4c56-ab18-3bb1462a8fea" name="Changes" comment="Refactorización EJEMPLO01" />
+    <list default="true" id="226eb383-0da5-4c56-ab18-3bb1462a8fea" name="Changes" comment="Se elimino main.py">
+      <change beforePath="$PROJECT_DIR$/Ejemploo2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemploo2.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,23 +90,21 @@
       <option name="project" value="LOCAL" />
       <updated>1725923850785</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Se elimino main.py">
+      <option name="closed" value="true" />
+      <created>1725924018308</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1725924018308</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="75244564" />
     <MESSAGE value="Refactorización EJEMPLO01" />
-    <option name="LAST_COMMIT_MESSAGE" value="Refactorización EJEMPLO01" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="Se elimino main.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Se elimino main.py" />
   </component>
 </project>
